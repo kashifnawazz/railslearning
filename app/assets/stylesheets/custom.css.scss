@@ -12,10 +12,6 @@ $navbar-default-bg: #00cccc;
 	font-weight: bold;
 }
 
-#logo:hover{
-	color: #fff;
-	text-transform: none;
-}
 
 .center{
 	text-align: center;
@@ -70,6 +66,13 @@ $navbar-default-bg: #00cccc;
 	border-top: 1px solid #eaeaea;
 	padding-top: 15px;
 	padding-bottom: 15px;
+}
+
+.listing {
+	list-style: none;
+	padding-left: 0;
+
+
 }
 
 footer{
